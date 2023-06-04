@@ -1,0 +1,44 @@
+.container {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    /* padding: 15%; */
+    margin: 5rem;
+}
+
+.date {
+    font-size: xx-large;
+}
+
+.time {
+    font-size: larger
+}
+
+.form-control {
+    margin-left: 20%;
+}
+
+
+.temp {
+    font-size: xxx-large;
+}
+
+.lonlat {
+    font-size: x-large;
+}
+
+.feels-like {
+    font-size: x-large;
+}
+
+.countryname {
+    font-size: 3rem;
+}
+
+.weather {
+    font-size: xx-large;
+}
+
+body {
+    background-image: url("sunny.jpg");
+}
